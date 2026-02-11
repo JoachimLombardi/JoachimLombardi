@@ -1,5 +1,5 @@
 <h1 align="center">
-# Bonjour, je suis Joachim, développeur IA  👋
+Bonjour, je suis Joachim, développeur IA  👋
 </h1>
 
 🤖 Développeur IA | Data Scientist | Python | 🚀 Passionné par les applications concrètes d’IA
