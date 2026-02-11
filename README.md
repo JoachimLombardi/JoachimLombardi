@@ -1,4 +1,4 @@
-#Bonjour, je suis Joachim, développeur IA  👋
+# Bonjour, je suis Joachim, développeur IA  👋
 
 🤖 Développeur IA | Data Scientist | Python | 🚀 Passionné par les applications concrètes d’IA
 
