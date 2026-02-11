@@ -40,8 +40,8 @@ Bonjour, je suis Joachim, développeur IA  👋
     <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://joachimlombardi.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+</a>
   <a href="https://www.linkedin.com/in/joachim-lombardi-machinelearning-intelligenceartificielle-datascientist/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
