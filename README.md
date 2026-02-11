@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
 # Bonjour, je suis Joachim, développeur IA  👋
-</p>
+</h1>
 
 🤖 Développeur IA | Data Scientist | Python | 🚀 Passionné par les applications concrètes d’IA
 
